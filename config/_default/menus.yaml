@@ -10,8 +10,8 @@ main:
   - name: News
     url: post
     weight: 20
-  - name: People
-    url: people
+  - name: Equipo
+    url: equipo
     weight: 30
   - name: Events
     url: event
@@ -19,6 +19,6 @@ main:
   - name: Publications
     url: publication
     weight: 50
-  - name: Contact
-    url: contact
+  - name: Contacto
+    url: contacto
     weight: 60
