@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Laboratorio
+        de Psicología Experimental
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        El **Laboratorio de Psicología Experimental: Prof. Ronald Betancourt Mainhard** es una Unidad dedicada al desarrollo de la psicología experimental y el aprendizaje asociativo, tanto para la producción de conocimiento, como para otorgar una sólida formación científica a estudiantes de pregrado y postgrado en psicología y ciencias relacionadas..
   
   - block: collection
     content:
@@ -61,7 +61,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./equipo/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./equipo/" cta_text="Conócenos →" %}}
     design:
       columns: '1'
 ---
