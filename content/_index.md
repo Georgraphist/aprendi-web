@@ -21,9 +21,8 @@ sections:
     id: mision
     content:
       title: Nuestra misión
-      align: right
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      align: left
+      align: right
       
   - block: collection
     content:
