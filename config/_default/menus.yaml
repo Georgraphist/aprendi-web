@@ -4,11 +4,16 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
+  - name: Investigaciones
+    url: investigacion
     weight: 10
-  - name: News
+  - name: Novedades
+    identifier: post
     url: post
+    weight: 20
+  - name: SubNovedades
+    parent: post
+    url: post/subnovedades
     weight: 20
   - name: Equipo
     url: equipo
