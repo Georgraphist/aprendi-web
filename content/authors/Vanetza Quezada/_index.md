@@ -71,6 +71,4 @@ user_groups:
   - Directores
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Como investigadora desarrolla un modelo translacional de condicionamiento al miedo en humanos, modelo de utilidad para la comprensión de la etiología, tratamiento y recaída de los trastornos de ansiedad y que se proyecta en el trabajo futuro con muestras clínicas. La implementación de esta línea ha traído consigo tecnologías para el estudio del miedo en humanos y a su vez, se ha constituido en un espacio de desarrollo para otras líneas de relevancia clínica que pueden ser abordadas desde los procesos básicos de aprendizaje, por ejemplo, adicciones y trastornos de alimentación. Actualmente participa de los claustros del Doctorado en Psicología de la Universidad de Chile y del Doctorado en Psicoterapia, programa conjunto de la Pontificia Universidad Católica de Chile y de la Universidad de Chile.

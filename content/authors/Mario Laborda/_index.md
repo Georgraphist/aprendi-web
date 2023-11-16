@@ -22,12 +22,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Me interesa investigar xxxxxxxxxx
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - xxxxxxxx
+  - xxxxxxxx
+  - xxxxxxxx
 
 education:
   courses:
@@ -55,9 +55,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +71,6 @@ user_groups:
   - Directores
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Investigador en Psicología Experimental y en la Historia de la Psicología. En el área histórica co-editó el libro “Notas Históricas de la Psicología en Chile” (2010), publicó un artículo sobre Sergio Yulis en la revista Psykhe (2014), y recibió en 2011 un reconocimiento del Colegio de Psicólogos por su contribución a la memoria histórica y profesional de la psicología en Chile. Actualmente es Editor Invitado de la Serie Especial de Historia de la Psicología en la revista Psykhe, 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+En el área experimental dirige un proyecto Fondecyt donde se evalúan técnicas comportamentales para reducir la recaída luego de terapia de exposición en modelos animales de la ansiedad y la adicción. Además, cuenta con 5 capítulos y 14 publicaciones en revistas indexadas acerca del condicionamiento Pavloviano, tanto como fenómeno básico como con respecto a sus aplicaciones en terapia. 

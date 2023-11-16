@@ -33,10 +33,10 @@ education:
   courses:
     - course: PhD in Cognitive and Behavioral Science
       institution: State University of New York at Binghamton
-      year: 2010
+      year: 2014
     - course: MSc. in Psychology
       institution: State University of New York at Binghamton
-      year: 200x
+      year: 2010
     - course: Lic. en Psicología
       institution: Universidad de Chile
       year: 2007
@@ -55,9 +55,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +71,4 @@ user_groups:
   - Directores
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ha participado y dirigido varios proyectos de investigación, es autor de varios artículos científicos y ha presentado en varios seminarios, coloquios, congresos y jornadas. Ha sido editor invitado, revisor ad hoc en revistas y revisor y miembro de paneles de estudio para organizaciones que financian investigación. Más específicamente, en diversos estudios, mi investigación ha aportado a la comprensión de fenómenos de condicionamiento Pavloviano, de cómo estos fenómenos influyen en las adicciones y fobias, de cómo procesos análogos en la memoria explican el olvido, de cómo los organismos representan las relaciones temporales y jerárquicas entre eventos, entre otras preguntas de investigación.
