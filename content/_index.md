@@ -13,10 +13,9 @@ sections:
       image:
         filename: placalab.jpg
       text: |
-        <br>
-        
-        El **Laboratorio de Psicología Experimental: Prof. Ronald Betancourt Mainhard** es una Unidad dedicada al desarrollo de la psicología experimental y el aprendizaje asociativo, tanto para la producción de conocimiento, como para otorgar una sólida formación científica a estudiantes de pregrado y postgrado en psicología y ciencias relacionadas.
-  
+  <br>
+  El **Laboratorio de Psicología Experimental: Prof. Ronald Betancourt Mainhard** es una Unidad dedicada al desarrollo de la psicología experimental y el aprendizaje asociativo, tanto para la producción de conocimiento, como para otorgar una sólida formación científica a estudiantes de pregrado y postgrado en psicología y ciencias relacionadas.
+
 - block: markdown
   id: mision
   content:
