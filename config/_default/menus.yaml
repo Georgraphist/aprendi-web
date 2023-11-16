@@ -16,8 +16,8 @@ main:
   - name: Investigaciones
     url: investigacion
     weight: 40
-  - name: Publications
-    url: publication
+  - name: Publicaciones
+    url: publicacion
     weight: 50
   - name: Actividades
     identifier: actividad
