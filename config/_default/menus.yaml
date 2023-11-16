@@ -4,20 +4,17 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Investigaciones
-    url: investigacion
+  - name: Sobre el Lab
+    url: about
     weight: 10
-  - name: Novedades
-    url: post
-    weight: 20
   - name: Novedades
     url: post
     weight: 20
   - name: Equipo
     url: equipo
     weight: 30
-  - name: Events
-    url: event
+  - name: Investigaciones
+    url: investigacion
     weight: 40
   - name: Publications
     url: publication
