@@ -22,7 +22,6 @@ sections:
     content:
       title: Nuestra misión
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      align: right
       
   - block: collection
     content:
