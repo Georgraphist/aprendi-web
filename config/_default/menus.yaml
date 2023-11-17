@@ -23,13 +23,13 @@ main:
     identifier: formacion
     url: formacion
     weight: 60
-  - name: Pregrado
-    parent: formacion
-    url: formacion/pregrado
-    weight: 60
   - name: Posgrado
     parent: formacion
     url: formacion/posgrado
+    weight: 60
+  - name: Pregrado
+    parent: formacion
+    url: formacion/pregrado
     weight: 60
   - name: Difusión científica
     url: difusion
