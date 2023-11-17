@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Sobre el Lab
+  - name: Sobre NIPPE
     url: about
     weight: 10
   - name: Novedades
@@ -19,22 +19,24 @@ main:
   - name: Publicaciones
     url: publicacion
     weight: 50
-  - name: Actividades
-    identifier: actividad
-    url: actividad
-    weight: 60
   - name: Formación
-    parent: actividad
-    url: actividad/formacion
+    identifier: formacion
+    url: formacion
     weight: 60
-  - name: Divulgación científica
-    parent: actividad
-    url: actividad/divulgacion
+  - name: Pregrado
+    parent: formacion
+    url: formacion/pregrado
     weight: 60
+  - name: Pregrado
+    parent: formacion
+    url: formacion/posgrado
+    weight: 60
+  - name: Difusión científica
+    url: difusion
+    weight: 70
   - name: Extensión
-    parent: actividad
-    url: actividad/extension
-    weight: 60
+    url: extension
+    weight: 80
   - name: Contacto
     url: contacto
-    weight: 70
+    weight: 90
